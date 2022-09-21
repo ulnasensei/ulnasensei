@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ulnasensei&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="meme.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ulnasensei&icon=0&color=3)](https://visitcount.itsvg.in)
